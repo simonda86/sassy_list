@@ -6,10 +6,10 @@ Gem::Specification.new do |s|
   s.name        = "sassy_list"
   s.version     = SassyList::VERSION
   s.authors     = ["Simon Davies"]
-  s.email       = ["simon@thedigideli.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.email       = ["hello@simon-davies.name"]
+  s.homepage    = "http://simon-davies.name"
+  s.summary     = %q{A compass plugin to allow you to set differnt colours for bullets in ul lists}
+  s.description = %q{A compass plugin to allow you to set differnt colours for bullets in ul lists}
 
   s.rubyforge_project = "sassy_list"
 
